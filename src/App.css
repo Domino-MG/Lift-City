@@ -1,0 +1,12 @@
+
+body {
+  background:dark;
+  
+  height: 600px;
+}
+
+.my-modal {
+  width: 90vw;
+  max-width: 90vw;
+  height: 70%;
+}

@@ -1,0 +1,115 @@
+  
+  .ie {
+    font-size: 2em;
+    color: #fff;
+    position: static;
+    text-shadow: -0   -0.5px 0   #000000,
+           0   -0.5px 0   #000000,
+          -0    0.5px 0   #000000,
+           0    0.5px 0   #000000,
+          -0.5px -0   0   #000000,
+          0.5px -0   0   #000000,
+          -0.5px  0   0   #000000,
+          0.5px  0   0   #000000,
+          -0.5px -0.5px 0   #000000,
+          0.5px -0.5px 0   #000000,
+          -0.5px  0.5px 0   #000000,
+          0.5px  0.5px 0   #000000,
+          -0.5px -0.5px 0   #000000,
+          0.5px -0.5px 0   #000000,
+          -0.5px  0.5px 0   #000000,
+          0.5px  0.5px 0   #000000;
+  }
+  .head {
+    font-size: 0.8em;
+  }
+  .text{
+    top: 45%;
+    left: 44%;
+    font-size: 1.2em;
+    font-family: "Tahoma", Georgia, sans-serif;
+    margin-bottom: 0.5em;
+    text-align: justify;
+    
+  }
+  .textF{
+    font-weight: 540;
+    top: 45%;
+    left: 44%;
+    font-size: 1.2em;
+    font-family: "Tahoma", Georgia, sans-serif;
+    margin-bottom: 0.5em;
+    text-align: justify;
+  }
+  .textAb{
+    top: 45%;
+    left: 44%;
+    font-size: 1.2em;
+    font-family: "Tahoma", Georgia, sans-serif;
+    text-align: justify;
+    
+  }
+  .textAb1{
+    top: 45%;
+    left: 44%;
+    font-size: 1.3em;
+    font-family: "Tahoma", Georgia, sans-serif;
+    text-align: justify;
+    
+  }
+  .textL{
+    top: 45%;
+    left: 44%;
+    font-size: 1.1em;
+    font-family: "Tahoma", Georgia, sans-serif;
+    
+    
+  }
+  .bar{
+    padding: bottom
+  }
+  .fixed {
+    position:bottom;
+    top:500px;
+}
+.text1{
+  font-family: "Tahoma", Georgia, sans-serif;
+  text-align: justify;
+}
+.textr{
+  top: 45%;
+    left: 44%;
+    font-size: 1.2em;
+  font-family: "Tahoma", Georgia, sans-serif;
+  text-align: right;
+}
+.jumbotron{
+  
+  background-image: url("https://sun9-62.userapi.com/impg/Tgu-PDdujNVyz2g6Pwl368RCyIVNC2rwDgtqug/4UPWGRO0yNU.jpg?size=1280x904&quality=96&sign=38d66450e0d0ab2f98c7e36d53b77ece&type=album");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  color:rgb(0, 0, 0);
+  
+}
+
+.poz{
+  position:absolute;
+  right:280px;
+  top:10px;
+}
+.ots{
+  margin-top: 0.15em;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #343a40;
+}
+.nav-link{
+  color: #343a40;
+}
