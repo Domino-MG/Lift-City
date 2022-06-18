@@ -22,7 +22,7 @@ export default class Contacts extends Component {
             <p className="text">Круглосуточно</p>
             <p className="text">тел. +7-391-267-97-97</p>
             <p className="text">тел. +7-999-448-18-55</p>
-            <Button variant="link" href={KARTA}> <p className="text">Карта предприятия</p> </Button>
+            <Button variant="link" href={KARTA}> <p className="text">Информационная карта предприятия</p> </Button>
             </Col>
             <Col>
             <p className="textr">Офис</p>
@@ -33,7 +33,6 @@ export default class Contacts extends Component {
             </Col>
             </Row>
             </Container>
-
             </>
         );
     }
